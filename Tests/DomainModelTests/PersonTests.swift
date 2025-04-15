@@ -1,3 +1,4 @@
+
 import XCTest
 @testable import DomainModel
 
@@ -73,3 +74,4 @@ class FamilyTests : XCTestCase {
         ("testFamilyWithKids", testFamilyWithKids),
     ]
 }
+
